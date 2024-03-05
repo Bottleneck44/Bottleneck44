@@ -1,3 +1,5 @@
+![MasteHead](https://repository-images.githubusercontent.com/"C:\Users\Ananda\Downloads\1_halC1X4ydv_3yHYxKqvrwg.gif")
+
 <h1 align="center">Hi 👋, I'm Ananda</h1>
 <h3 align="center">A passionate Data scientist</h3>
 
