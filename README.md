@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ananda</h1>
 <h3 align="center">A passionate Data scientist</h3>
+
 ![Data analyst](https://media.licdn.com/dms/image/D5616AQEL8ifdnFrD7g/profile-displaybackgroundimage-shrink_350_1400/0/1700751939924?e=1709769600&v=beta&t=fezIQp9w9AvWFliXTmSN6mGRAiAt4yAYI4ovVmOHJKA)
 
 
