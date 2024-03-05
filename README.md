@@ -3,10 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ananda</h1>
 <h3 align="center">A passionate Data scientist</h3>
 
-![Data analyst](https://media.licdn.com/dms/image/D5616AQEL8ifdnFrD7g/profile-displaybackgroundimage-shrink_350_1400/0/1700751939924?e=1709769600&v=beta&t=fezIQp9w9AvWFliXTmSN6mGRAiAt4yAYI4ovVmOHJKA)
-
-
-
+![ai_circuits_dribbble](https://github.com/Bottleneck44/Bottleneck44/assets/135506157/455bc949-8853-4d6d-907a-14591cac3129)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bottleneck44&label=Profile%20views&color=0e75b6&style=flat" alt="bottleneck44" /> </p>
 
