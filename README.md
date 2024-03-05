@@ -4,6 +4,7 @@
 ![Data analyst](https://media.licdn.com/dms/image/D5616AQEL8ifdnFrD7g/profile-displaybackgroundimage-shrink_350_1400/0/1700751939924?e=1709769600&v=beta&t=fezIQp9w9AvWFliXTmSN6mGRAiAt4yAYI4ovVmOHJKA)
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bottleneck44&label=Profile%20views&color=0e75b6&style=flat" alt="bottleneck44" /> </p>
 
 - 📫 How to reach me **developerd.ananda@gmail.com**
@@ -11,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/d ananda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="d ananda" height="30" width="40" /></a>
+<a href="https://kaggle.com/bottleneck_44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bottleneck_44" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
